@@ -1,1 +1,5 @@
-data/
+/data/
+__pycache__/
+*.pyc
+/ssshtest
+/fire_gdp.png
